@@ -221,4 +221,4 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 - **Leetcode**: (https://leetcode.com/u/KHAN_FIZA/)
 - **LinkedIn**: (https://www.linkedin.com/in/fizakhan0705)
 
-Thank you, and I look forward to connecting with you!
+Thank you, and I look forward to connect with you!
