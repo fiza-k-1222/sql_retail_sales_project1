@@ -1,5 +1,5 @@
 # Retail Sales Analysis SQL Project
-![](file:///Users/fizakhan/Desktop/logo.sql.png)
+![logo]()
 
 ## Project Overview
 
