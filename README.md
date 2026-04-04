@@ -1,5 +1,5 @@
 # Retail Sales Analysis SQL Project
-![logo]()
+![logo](https://github.com/fiza-k-1222/sql_retail_sales_project1/blob/main/logo.sql.png)
 
 ## Project Overview
 
